@@ -1,0 +1,33 @@
+
+# IDE
+.vscode
+
+# Python
+__pycache__
+.env
+
+# Logs
+*.log
+
+# Build
+build
+dist
+.eggs
+
+# Virtual environment
+venv
+env
+
+# Temporary files
+*.tmp
+*.temp
+
+# System files
+Thumbs.db
+.DS_Store
+
+# Other
+README.md
+LICENSE
+COPYING
+COPYING.LESSER
